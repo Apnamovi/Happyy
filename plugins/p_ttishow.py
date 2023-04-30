@@ -57,7 +57,7 @@ async def save_group(bot, message):
                 video="https://telegra.ph/file/03691465baa774e46506d.mp4",                                               
                                                  caption=f'<b>ʜᴇʏ, {u.mention} 👋🏻\nᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴏᴜʀ ɢʀᴏᴜᴘ {message.chat.title}\n\nकोई भी मीडिया खोजें! अगर आपको कोई मूवी चाहिए तो मूवी का नाम + साल डालें\n\nदोस्तों सिर्फ मूवी या वेबसीरीज का नाम इस तरह डालें 👇\nMari 2❌\n👉 Maari 2 2018✅\nPuspa❌\n👉 Pushpa 2021 ✅\nLucifer❌\n👉 Lucifer S01E01 ✅\nAvatar: The Way of Water ❌\n👉 Avatar The Way of Water ✅</b>',
                                                  reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('🔥  ↭ Main Channel ↭  🔥', url=f'https://t.me/The_Happy_Hour_Hindi') ],
-                                                                                      [ InlineKeyboardButton('📥  ↭ New Movies Updates ↭  📥', url=f'https://t.me/Letest_All_Type_Movies') ]
+                                                                                      [ InlineKeyboardButton('📥  ↭ New Movies Updates ↭  📥', url=f'https://t.me/Movies_Labb') ]
                                                                                     ] )
                 )
 
