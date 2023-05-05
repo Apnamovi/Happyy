@@ -250,7 +250,7 @@ async def next_page(bot, query):
             ]
     btn.insert(0,
         [   
-	    InlineKeyboardButton(text='⚡Join Backup Channel⚡', url=f'https://t.me/The_Happy_Hour_Hindi')
+	    InlineKeyboardButton(text='⚡ How To Open Link ⚡', url=f'https://t.me/The_Happy_Hour_Movie_Request_bot?start=ZmlsZV9CQUFEQlFBRDhna0FBbDgtb1ZZSmpzbnNIZzhmb0JZRQ')
         ]   
     )
 
@@ -933,7 +933,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [ 
-	    InlineKeyboardButton(text='⚡Join Backup Channel⚡', url=f'https://t.me/The_Happy_Hour_Hindi')
+	    InlineKeyboardButton(text='⚡ How To Opne Link ⚡', url=f'https://t.me/The_Happy_Hour_Movie_Request_bot?start=ZmlsZV9CQUFEQlFBRDhna0FBbDgtb1ZZSmpzbnNIZzhmb0JZRQ')
         ] 
     )
 
